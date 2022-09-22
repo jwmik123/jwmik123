@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jwmik123 aka Joel
-- 👀 I’m interested in new and upcoming technologies
+- 👀 I’m interested in Web3, web apps, front end development
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on fullstack apps
 - 📫 How to reach me: contact@joelmik.nl

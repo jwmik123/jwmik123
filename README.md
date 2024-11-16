@@ -52,9 +52,9 @@
 ---
 
 ## 📈 GitHub Stats
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwmik123&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwmik123&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

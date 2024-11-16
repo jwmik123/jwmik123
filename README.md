@@ -1,6 +1,6 @@
 # Hi there, I'm Joël Mik 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jwmik123&color=blue&style=flat-square)
 
 ## 👨‍💻 About Me
 - 💻 I'm a passionate **Full-Stack Developer** with experience in building dynamic and engaging web applications.

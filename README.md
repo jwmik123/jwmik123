@@ -14,33 +14,28 @@
 ## 🔧 Tech Stack
 
 ### Frontend:
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
-- **Frameworks & Libraries**:  
-  ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  
-  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)  
-  ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat&logo=three.js)  
-  ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock)
-- **Styling**:  
-  ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
-  ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass)  
-  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-- **Other Tools**:  
-  ![React Lenis](https://img.shields.io/badge/-React%20Lenis-green?style=flat)  
-  ![useGSAP](https://img.shields.io/badge/-useGSAP-green?style=flat)  
-  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat&logo=three.js)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![React Lenis](https://img.shields.io/badge/-React%20Lenis-green?style=flat)
+![useGSAP](https://img.shields.io/badge/-useGSAP-green?style=flat)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
 
 ### Backend:
-- **Languages**: ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-- **Frameworks**:  
-  ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=express)  
-  ![Sanity CMS](https://img.shields.io/badge/-Sanity%20CMS-red?style=flat&logo=sanity)
-- **Databases**:  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)  
-  ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase)
-- **Other Tools**:  
-  ![REST APIs](https://img.shields.io/badge/-REST%20APIs-brightgreen?style=flat)  
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)  
-  ![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat&logo=socket.io)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=express)
+![Sanity CMS](https://img.shields.io/badge/-Sanity%20CMS-red?style=flat&logo=sanity)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-brightgreen?style=flat)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat&logo=socket.io)
 
 ---
 
@@ -52,9 +47,9 @@
 ---
 
 ## 📈 GitHub Stats
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwmik123&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwmik123&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

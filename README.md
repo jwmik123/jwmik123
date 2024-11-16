@@ -1,7 +1,5 @@
 # Hi there, I'm Joël Mik 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=jwmik123&color=blue&style=flat-square)
-
 ## 👨‍💻 About Me
 - 💻 I'm a **Full-Stack Developer**.
 - 🚀 Currently exploring **Next.js**, **Three.js**, and **AI-powered tools**.

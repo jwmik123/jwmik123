@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Joël Mik 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
 

@@ -3,18 +3,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jwmik123&color=blue&style=flat-square)
 
 ## 👨‍💻 About Me
-- 💻 I'm a passionate **Full-Stack Developer** with experience in building dynamic and engaging web applications.
+- 💻 I'm a **Full-Stack Developer**.
 - 🚀 Currently exploring **Next.js**, **Three.js**, and **AI-powered tools**.
 - 🎓 Working on my thesis project: [**CodeShelf**](https://github.com/YourUsername/CodeShelf), a tool to save and manage code snippets, enhanced with AI.
-- 🌟 Interested in freelance collaborations and open-source contributions.
-- 🎨 Portfolio: [Your Portfolio URL](https://yourportfolio.com)
+- 🌟 Interested in freelance collaborations.
+- 🎨 Portfolio: [Your Portfolio URL](https://mikdevelopment.nl)
 
 ---
 
 ## 🎯 Current Focus
 - 🌟 Building **CodeShelf**, an AI-powered code snippet tool.
 - 📚 Expanding knowledge on **web animations** using GSAP and Three.js.
-- 🌐 Improving SEO strategies with **Rank Math SEO** for client projects.
 
 ---
 
